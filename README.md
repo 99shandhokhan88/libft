@@ -2,6 +2,8 @@
 
 Libft (Library of Functions)
 
+This is your first 42 Roma project and it aims to code a C library regrouping usual functions that we’ll be allowed to use in all our other 42 projects.
+
 In this project, you will be creating a library of functions, the file structure for this project is the following:
 
 ### .c Files 
@@ -17,9 +19,27 @@ Make sure you add `#include "libft.h"` in all of your .c files.
 ### Makefile 
 Makefile is where you will create a file to compile your projects. Remember how in the piscine, you created an **int main** and **gcc** to compile the projects, well with a Makefile, you don't have to do that anymore, you just type `make` once you have created your Makefile. 
 
-# Great Resource for Libft
+# Great Resources for Libft
 
-https://www.asidesigned.com/project-libft.html 
+https://www.asidesigned.com/project-libft.html
+
+Makefile <br/>
+https://makefiletutorial.com/<br/><br/>https://gl.developpez.com/tutoriel/outil/makefile/<br/><br/>http://perso.univ-lyon1.fr/jean-claude.iehl/Public/educ/Makefile.html<br/><br/>Typecasting<br/>https://www.tutorialspoint.com/cprogramming/c_type_casting.htm<br/><br/>https://zhu45.org/posts/2017/Jan/19/typecasting-in-c/<br/><br/>https://developerinsider.co/type-casting-c-programming/<br/><br/>https://www.geeksforgeeks.org/typecasting-in-c/<br/><br/>Memory<br/>https://www.geeksforgeeks.org/memory-layout-of-c-program/<br/><br/>https://craftofcoding.wordpress.com/2015/12/07/memory-in-c-the-stack-the-heap-and-static/<br/><br/>https://www.gnu.org/software/libc/manual/html_node/Memory-Allocation-and-C.html<br/><br/>https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/16595-lallocation-dynamique<br/><br/>https://rperrot.developpez.com/articles/c/allocationC/<br/><br/>https://waytolearnx.com/2019/03/difference-entre-allocation-dynamique-et-allocation-statique.html<br/><br/>https://buzut.net/cours/computer-science/differents-types-de-memoires<br/><br/>https://www.it-swarm-fr.com/fr/c/difference-entre-lallocation-de-memoire-statique-et-lallocation-de-memoire-dynamique/940988866/<br/><br/>http://www.cs.ru.nl/~erikpoll/sws1/slides/hic4.pdf
+
+
+Pointers <br/>
+https://www.geeksforgeeks.org/void-pointer-c-cpp/?ref=lbp/<br/><br/>https://www.geeksforgeeks.org/dangling-void-null-wild-pointers/<br/><br/>https://www.javatpoint.com/c-dereference-pointer<br/><br/>Functions<br/>https://webdevdesigner.com/q/what-is-the-difference-between-memcmp-strcmp-and-strncmp-in-c-102548/<br/><br/>https://pvs-studio.com/en/blog/posts/cpp/0360/<br/><br/>https://www.geeksforgeeks.org/what-are-static-functions-in-c/<br/><br/>https://www.cs.utah.edu/~germain/PPS/Topics/C_Language/c_functions.html<br/><br/>Data types<br/>
+https://web.maths.unsw.edu.au/~lafaye/CCM/c/ctype.htm<br/><br/>https://www.arm.linux.org.uk/docs/faqs/signedchar.php<br/><br/>Errors<br/>https://www.geeksforgeeks.org/segmentation-fault-sigsegv-vs-bus-error-sigbus/
+
+https://www.geeksforgeeks.org/program-error-signals/<br/><br/>https://www.educba.com/types-of-errors-in-c/<br/><br/>http://www.yolinux.com/TUTORIALS/C++Signals.html
+
+
+File descriptor <br/>
+https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/<br/><br/>Linked list <br/>
+https://www.geeksforgeeks.org/data-structures/linked-list/<br/><br/>Others<br/>https://www.exploit-db.com/docs/english/28477-linux-integer-overflow-and-underflow.pdf
+
+https://www.lri.fr/~hivert/COURS/CFA-L3/02-Recursivite.pdf
+
 
 # Libft Functions
 
@@ -80,11 +100,6 @@ https://www.asidesigned.com/project-libft.html
 
 
 # Link To Libft Tester
-https://github.com/pasqualerossi/42-Cursus-Tester
+https://github.com/FranFrau/Supreme-Tester-Libft
 
-# My Libft Results
-
-<img width="1914" alt="Screen Shot 2021-09-29 at 4 37 29 PM" src="https://user-images.githubusercontent.com/58959408/135222374-f35ff7a5-b4d5-4d96-89a7-9d8b94cd3ba4.png">
-<img width="1355" alt="Screen Shot 2021-09-29 at 5 01 51 PM" src="https://user-images.githubusercontent.com/58959408/135223336-19e44567-124d-455c-b8e6-07cf16f18d9c.png"> 
-
-![image](https://user-images.githubusercontent.com/58959408/150704272-0d7b454d-2872-4695-aade-e5bc9c3b79aa.jpg)
+Good Luck!
