@@ -2,7 +2,7 @@
 
 Libft (Library of Functions)
 
-This is your first 42 Roma project and it aims to code a C library regrouping usual functions that we’ll be allowed to use in all our other 42 projects.
+This is your first 42 Roma Luiss project and it aims to code a C library regrouping usual functions that we’ll be allowed to use in all our other 42 projects.
 
 In this project, you will be creating a library of functions, the file structure for this project is the following:
 
