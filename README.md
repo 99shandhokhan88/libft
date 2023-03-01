@@ -21,7 +21,7 @@ Makefile is where you will create a file to compile your projects. Remember how 
 
 # Great Resources for Libft
 
-Prototype of Libft <br/r>
+Prototype of Libft <br/>
 
 https://www.asidesigned.com/project-libft.html
 
